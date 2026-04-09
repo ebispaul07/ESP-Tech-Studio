@@ -4,6 +4,17 @@ import { FiExternalLink } from 'react-icons/fi'
 
 const clientProjects = [
   {
+    id: 'shri-arya-bhavan',
+    title: 'Shri Arya Bhavan',
+    category: 'Restaurant Website',
+    description: 'A premium authentic vegetarian restaurant website with an immersive menu showcase, vibrant live background effects, and live location integration.',
+    techStack: ['React', 'Vite', 'Tailwind CSS', 'Framer Motion'],
+    liveUrl: 'https://shri-arya-bhavan.vercel.app/',
+    color: '#10B981',
+    gradient: 'from-emerald-500/30 to-green-500/10',
+    emoji: '🌿',
+  },
+  {
     id: 'amritha-hospital',
     title: 'Amritha Surabhi Hospital',
     category: 'Healthcare Website',
