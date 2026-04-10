@@ -4,6 +4,17 @@ import { FiExternalLink } from 'react-icons/fi'
 
 const clientProjects = [
   {
+    id: 'ford-mustang-gt',
+    title: 'Ford Mustang GT',
+    category: '3D Automotive Experience',
+    description: 'A high-performance digital showcase of the Ford Mustang GT, providing an immersive 3D experience with sculpted aerodynamics, track-ready agility, and a digital cockpit.',
+    techStack: ['React', 'Three.js', 'GSAP', 'Tailwind CSS'],
+    liveUrl: 'https://ford-mustang-gt.vercel.app/',
+    color: '#F43F5E',
+    gradient: 'from-rose-500/30 to-orange-500/10',
+    emoji: '🏎️',
+  },
+  {
     id: 'shri-arya-bhavan',
     title: 'Shri Arya Bhavan',
     category: 'Restaurant Website',

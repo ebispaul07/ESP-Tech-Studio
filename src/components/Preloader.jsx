@@ -32,7 +32,7 @@ const Preloader = () => {
         <p className="text-accent font-poppins font-semibold tracking-[0.3em] text-sm uppercase mb-2">
           ESP Tech Studio
         </p>
-        <p className="text-white/40 text-xs tracking-widest">Loading experience...</p>
+        <p className="text-white/40 text-xs tracking-widest">Welcomes you....</p>
       </motion.div>
 
       {/* Progress bar */}
